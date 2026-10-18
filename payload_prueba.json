@@ -1,0 +1,182 @@
+{
+  "repositoryName": "web-Pokedex",
+  "branch": "main",
+  "sender": "JoseeJimenez",
+  "commits": [
+    {
+      "commitId": "c3cd231c660d4e44129a89ca094e9229ed00d1a7",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "pruebas",
+      "timestamp": "2026-04-22T22:41:44"
+    },
+    {
+      "commitId": "b4a7fbd2dc336dd7ba616b76200e6224332d779b",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update Despliegue",
+      "timestamp": "2026-04-22T21:57:34"
+    },
+    {
+      "commitId": "b24664d39a8344b2f00a5645d240442dd42a4916",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update Despliegue",
+      "timestamp": "2026-04-22T20:40:53"
+    },
+    {
+      "commitId": "98ae846a7c4485c23d064e388baf82ace6be9270",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update README",
+      "timestamp": "2026-04-22T20:27:04"
+    },
+    {
+      "commitId": "2c8cfd0e7ce4e85e0fa8e367be4f1083ca0edeb2",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update README",
+      "timestamp": "2026-04-22T20:26:36"
+    },
+    {
+      "commitId": "4d0a1f12617f428f60f78ed8c7a55f3eda592010",
+      "authorEmail": "josealfredojd19@gmail.com",
+      "authorName": "JoseeJimenez",
+      "message": "Se eliminan flujos duplicados y erróneos",
+      "timestamp": "2026-04-22T19:24:08"
+    },
+    {
+      "commitId": "21349fbc25536b2643b41d10950fc56c5a419669",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Refactor reset styles for html and body elements",
+      "timestamp": "2026-04-22T19:14:50"
+    },
+    {
+      "commitId": "458d1d9024cb795060f247993db25c8b775e8ad8",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update reset styles for full-width layout",
+      "timestamp": "2026-04-22T19:07:39"
+    },
+    {
+      "commitId": "84fe1a015ef14adbb1b7e87121340fb6aa15af3f",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update Content-Security-Policy and Permissions-Policy",
+      "timestamp": "2026-04-21T20:39:20"
+    },
+    {
+      "commitId": "5ac87584e80f2e57a2eda07b7cb54168cb3506d2",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "modificación de seguridad",
+      "timestamp": "2026-04-21T20:33:04"
+    },
+    {
+      "commitId": "865a883cd86afa6bbc35e6fb550e8f55e9181a03",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update staticwebapp.config.json",
+      "timestamp": "2026-04-13T04:57:47"
+    },
+    {
+      "commitId": "ed377d93b81dac96790f6ae2e3fd7f10ecb803b3",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update staticwebapp.config.json",
+      "timestamp": "2026-04-13T04:53:32"
+    },
+    {
+      "commitId": "f8a905e61c0f0da4b345ca09f05723e0cfa7efc5",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update staticwebapp.config.json",
+      "timestamp": "2026-04-13T04:49:50"
+    },
+    {
+      "commitId": "9fd68ce390637534b5e26a315e6c364602c09f4b",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update staticwebapp.config.json",
+      "timestamp": "2026-04-13T04:39:23"
+    },
+    {
+      "commitId": "ab594206be65ab39ba141847eec921ce70b387e4",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update staticwebapp.config.json",
+      "timestamp": "2026-04-13T04:35:32"
+    },
+    {
+      "commitId": "9d3156e1d1cb9aa3c940de715d5fc11dcea754ec",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update staticwebapp.config.json",
+      "timestamp": "2026-04-13T04:27:39"
+    },
+    {
+      "commitId": "70c9c62ceb046f5d38171713017b42b7ea9c47b0",
+      "authorEmail": "josealfredojd19@gmail.com",
+      "authorName": "JoseeJimenez",
+      "message": "Informe final de despliegue y seguridad completado",
+      "timestamp": "2026-04-12T22:06:12"
+    },
+    {
+      "commitId": "fc58a36dd96ecf737e82d59404670716f1bb7d7e",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update README.md",
+      "timestamp": "2026-04-12T21:47:06"
+    },
+    {
+      "commitId": "0103d42a1373e967f4c8b4969396f403d846f7da",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update staticwebapp.config.json",
+      "timestamp": "2026-04-12T21:42:22"
+    },
+    {
+      "commitId": "60b48ae71191088aa39c319066892f59edaae05c",
+      "authorEmail": "josealfredojd19@gmail.com",
+      "authorName": "JoseeJimenez",
+      "message": "Permitiendo conexión a PokeAPI en la política de seguridad",
+      "timestamp": "2026-04-12T21:37:23"
+    },
+    {
+      "commitId": "cec2bdbcd219cfcba4d17f2cec83fefe68cb17b9",
+      "authorEmail": "josealfredojd19@gmail.com",
+      "authorName": "JoseeJimenez",
+      "message": "Mejorando seguridad para Pueblo Paleta",
+      "timestamp": "2026-04-12T21:31:00"
+    },
+    {
+      "commitId": "47b44f19de5b195ec94815b79a28b627f74471ae",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "Update environment.prod.ts",
+      "timestamp": "2026-04-12T21:06:33"
+    },
+    {
+      "commitId": "3b72f0a0da9b867eb67fe9fbc6e1e6f9f8ee140c",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "ci: add Azure Static Web Apps workflow file",
+      "timestamp": "2026-04-12T20:50:08"
+    },
+    {
+      "commitId": "d72d088a4463a51208180b6cf2f353cbe10e1329",
+      "authorEmail": "166890148+JoseeJimenez@users.noreply.github.com",
+      "authorName": "JoseeJimenez",
+      "message": "ci: add Azure Static Web Apps workflow file",
+      "timestamp": "2026-04-12T20:40:12"
+    },
+    {
+      "commitId": "3ade46edf254a32f95ae9bc7570a0ab88c720604",
+      "authorEmail": "josealfredojd19@gmail.com",
+      "authorName": "JoseeJimenez",
+      "message": "Carga de la pokedex",
+      "timestamp": "2026-04-12T20:25:36"
+    }
+  ]
+}
